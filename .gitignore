@@ -1,0 +1,5 @@
+__pycache__/
+audio.wav
+audio.wav.txt
+resources.txt
+api_secrets.py
